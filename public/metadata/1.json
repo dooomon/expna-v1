@@ -1,0 +1,15 @@
+{
+    "name": "Example NFT",
+    "description": "This is an example of a dynamically created NFT.",
+    "image": "http://localhost:3000/image/stampcard_ex.jpg",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Green"
+      }
+    ]
+  }
